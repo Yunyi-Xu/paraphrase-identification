@@ -1,5 +1,5 @@
 # An-Analysis-in-Paraphrase-Identification
-This is my final project of COMP 550, Natural Language Processing (fall 2021) at McGill University.
+This is my final project as a group project of COMP 550, Natural Language Processing (fall 2021) at McGill University.
 
 The datasets can be downloaded in the following links:
 1. Quora Question Pairs, https://www.kaggle.com/c/quora-question-pairs
