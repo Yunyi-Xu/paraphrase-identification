@@ -1,4 +1,4 @@
-# An-Analysis-in-Paraphrase-Identification
+# paraphrase-identification
 This is my final project as a group project of COMP 550, Natural Language Processing (fall 2021) at McGill University.
 
 The datasets can be downloaded in the following links:
